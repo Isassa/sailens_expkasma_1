@@ -8,7 +8,7 @@
 // @grant		none
 // ==/UserScript==
 
-// This is the zone you want to attack (Optional, otherwise picks one for you).
+// Farklı bir gezegene girip yapıştırınız!
 var target_zone = -1;
 
 // Variables. Don't change these unless you know what you're doing.
