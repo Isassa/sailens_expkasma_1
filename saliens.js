@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name		Ensingm2 Salien Oyunu Puan Kasma Yardımcı Programı
+// @name		Salien Oyunu Puan Kasma Yardımcı Programı
 // @namespace	https://github.com/ensingm2/saliengame_idler
 // @version		0.0.1
 // @author		ensingm2
@@ -55,7 +55,7 @@ class BotGUI {
 
 		var $statusWindow = $J([
 			'<div id="salienbot_gui" style="background: #191919; z-index: 1; border: 3px solid #83d674; padding: 20px; margin: 15px; width: 300px; transform: translate(0, 0);">',
-				'<h1><a href="https://github.com/ensingm2/saliengame_idler/">Salien Game Idler</a></h1>',
+				'<h1><a href="https://github.com/Isassa/sailens_expkasma_1/">Salien Game Idler</a></h1>',
 				'<p style="margin-top: -.8em; font-size: .75em"><span id="salienbot_status"></span></p>', // Running or stopped
 				'<p><b>Istek:</b> <span id="salienbot_task">Initializing</span></p>', // Current task
 				`<p><b>Belirlenen Alan:</b> <span id="salienbot_zone">Belirlenmemiş!</span></p>`,
